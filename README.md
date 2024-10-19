@@ -2,4 +2,4 @@
 Pong game I made while learning Python.
 
 ## Preview
-![Game Demo](./public/Demo.gif)
+![Game Demo](./public/pong_gameplay_demo.gif)
